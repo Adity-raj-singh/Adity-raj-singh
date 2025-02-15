@@ -15,11 +15,11 @@ I'm a passionate **Technical Recruiter**, with a keen eye for identifying top ta
 - **Building Talent Pipelines** - Creating a network of highly skilled professionals.
 
 ## 📫 Contact Me
-<div style="display: flex; gap: 1rem; align-items: center;">
+<div style="display: flex; gap: 50px; align-items: center;">
     <a href="https://www.linkedin.com/in/adity-singh-technical-recruiter" target="_blank" style="text-decoration: none;">
         <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(0.5);">
     </a>
-    <a href="mailto:aditysingh@northcorp.tech" style="text-decoration: none; background: "black">
+    <a href="mailto:aditysingh@northcorp.tech" style="text-decoration: none; background-color: "black">
         <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/gmail.svg" alt="Email" width="30" height="30" style="filter: invert(0.5);">
     </a>
 </div>
