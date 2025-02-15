@@ -18,9 +18,8 @@ Role: Technical Recruiter
 Specialization:
   - Full-Stack Developer Hiring
   - Software Developer Hiring
-  - Tech Talent Sourcing
-  - Team Building
-  - Technical Screening
+  - FrontEnd Developer Hiring
+  - Backened Developer Hiring
 ```
 
 ## 🎯 Skills & Expertise
