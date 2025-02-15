@@ -14,9 +14,10 @@
 
 ## 💫 What I Do
 ```yaml
-role: Technical Recruiter
-specialization:
+Role: Technical Recruiter
+Specialization:
   - Full-Stack Developer Hiring
+  - Software Developer Hiring
   - Tech Talent Sourcing
   - Team Building
   - Technical Screening
