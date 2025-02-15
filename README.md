@@ -69,8 +69,6 @@ specialization:
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![ATS](https://img.shields.io/badge/ATS-FF6B6B?style=for-the-badge&logo=data:image/png;base64,iLogo&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-
 </div>
 
 ## 📫 Let's Connect!
@@ -87,9 +85,5 @@ specialization:
 <div align="center">
   
 ### 💡 "Building great teams, one hire at a time" 
-
-![Profile Views](https://komarev.com/ghpvc/?username=aditysingh&color=brightgreen)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
