@@ -24,7 +24,7 @@ I'm a passionate **Technical Recruiter**, with a keen eye for identifying top ta
     </a>
 </div>
 
-<div style=" margin-bottom: 1rem">
-Let's connect and build amazing tech teams together! 🚀
+<div style="margin-top: 1rem">
+    Let's connect and build amazing tech teams together! 🚀
 </div>
 
