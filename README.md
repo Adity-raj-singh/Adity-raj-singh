@@ -81,7 +81,7 @@ specialization:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-![GMail](https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=github&logoColor=white)
+![GMail](https://img.shields.io/badge/style=for-the-badge&logo=github&logoColor=white)
 
 </p>
 
