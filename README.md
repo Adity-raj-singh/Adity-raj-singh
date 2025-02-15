@@ -42,7 +42,6 @@ Specialization:
 ![Communication](https://img.shields.io/badge/Communication-orange?style=for-the-badge)
 ![Negotiation](https://img.shields.io/badge/Negotiation-orange?style=for-the-badge)
 ![Relationship Building](https://img.shields.io/badge/Relationship%20Building-orange?style=for-the-badge)
-![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-orange?style=for-the-badge)
 
 </div>
 
