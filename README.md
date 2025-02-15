@@ -76,10 +76,13 @@ specialization:
 <div align="center">
 
   
-<p >
+<p>
   <a href="https://www.linkedin.com/in/adity-singh-technical-recruiter" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:aditysingh@northcorp.tech">
     <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="linkedin" height="40" width="40" />
   </a>
