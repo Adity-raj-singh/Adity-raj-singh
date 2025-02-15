@@ -75,8 +75,14 @@ specialization:
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adity-singh-technical-recruiter)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:aditysingh@northcorp.tech)
+<p align="center">
+  <a href="https://www.linkedin.com/in/adity-singh-technical-recruiter" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:aditysingh@northcorp.tech">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="email" height="40" width="40" />
+  </a>
+</p>
 
 </div>
 
