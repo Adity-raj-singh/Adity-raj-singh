@@ -19,7 +19,7 @@ I'm a passionate **Technical Recruiter**, with a keen eye for identifying top ta
     <a href="https://www.linkedin.com/in/adity-singh-technical-recruiter" target="_blank" style="text-decoration: none;">
         <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(0.5);">
     </a>
-    <a href="mailto:aditysingh@northcorp.tech" style="text-decoration: none;">
+    <a href="mailto:aditysingh@northcorp.tech" style="text-decoration: none; background: "black">
         <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/gmail.svg" alt="Email" width="30" height="30" style="filter: invert(0.5);">
     </a>
 </div>
