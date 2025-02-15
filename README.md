@@ -15,9 +15,11 @@ I'm a passionate **Technical Recruiter**, with a keen eye for identifying top ta
 - **Building Talent Pipelines** - Creating a network of highly skilled professionals.
 
 ## 📫 Contact Me
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/adity-singh-technical-recruiter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adity singh" height="30" width="40" /></a>
+  
+<a href="aditysingh@northcorp.tech" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" alt="adity singh" height="30" width="40" /></a>
 
 Let's connect and build amazing tech teams together! 🚀
 
