@@ -76,9 +76,10 @@ specialization:
 <div align="center">
 
   
-<p>
+<p style="display: flex">
+  
   <a href="https://www.linkedin.com/in/adity-singh-technical-recruiter" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
   </a>
   
   &nbsp;&nbsp;&nbsp;&nbsp;
