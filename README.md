@@ -81,7 +81,7 @@ specialization:
   &nbsp;&nbsp;
   <a href="mailto:aditysingh@northcorp.tech">
     <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" 
-         alt="Gmail" height="80" width="40" />
+         alt="Gmail" height="40" width="40" />
   </a>
 </p>
 
