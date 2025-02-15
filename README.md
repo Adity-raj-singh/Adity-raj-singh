@@ -81,7 +81,7 @@ specialization:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aditysingh@northcorp.tech">
-    📧
+    <img src="https://e7.pngegg.com/pngimages/945/191/png-clipart-gmail-logo-computer-icons-gmail-scalable-graphics-email-gmail-size-icon-angle-text.png" alt="linkedin" height="40" width="40" />
   </a>
 
 </p>
