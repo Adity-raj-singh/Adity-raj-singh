@@ -15,11 +15,14 @@ I'm a passionate **Technical Recruiter**, with a keen eye for identifying top ta
 - **Building Talent Pipelines** - Creating a network of highly skilled professionals.
 
 ## 📫 Contact Me
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/adity-singh-technical-recruiter" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adity singh" height="30" width="40" /></a>
-  
-<a href="aditysingh@northcorp.tech" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" alt="adity singh" height="30" width="40" /></a>
+<div style="display: flex; gap: 20px; align-items: center;">
+    <a href="https://www.linkedin.com/in/adity-singh-technical-recruiter" target="_blank" style="text-decoration: none;">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(0.5);">
+    </a>
+    <a href="mailto:aditysingh@northcorp.tech" style="text-decoration: none;">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/gmail.svg" alt="Email" width="30" height="30" style="filter: invert(0.5);">
+    </a>
+</div>
 
 Let's connect and build amazing tech teams together! 🚀
 
