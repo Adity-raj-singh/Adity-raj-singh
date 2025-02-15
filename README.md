@@ -29,9 +29,9 @@ Specialization:
 
 ### 💼 Recruitment
 ![Talent Acquisition](https://img.shields.io/badge/Talent%20Acquisition-success?style=for-the-badge)
+![Sourcing Candidate](https://img.shields.io/badge/Sourcing%20Candidate-success?style=for-the-badge)
 ![Technical Screening](https://img.shields.io/badge/Technical%20Screening-success?style=for-the-badge)
 ![Interviewing](https://img.shields.io/badge/Interviewing-success?style=for-the-badge)
-![Sourcing Candidate](https://img.shields.io/badge/Sourcing%20Candidate-success?style=for-the-badge)
 
 ### 💻 Technical Knowledge
 ![Frontend Development](https://img.shields.io/badge/Frontend%20Development-blue?style=for-the-badge)
