@@ -20,6 +20,7 @@ Specialization:
   - Software Developer Hiring
   - FrontEnd Developer Hiring
   - Backened Developer Hiring
+  - AI/ML Developer Hiring 
 ```
 
 ## 🎯 Skills & Expertise
