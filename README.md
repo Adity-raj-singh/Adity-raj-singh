@@ -8,7 +8,11 @@
 </div>
 
 ## 🚀 About Me
-> I'm a passionate **Technical Recruiter** with a keen eye for identifying top talent in the tech industry. I specialize in sourcing, screening, and hiring the best candidates for software and IT roles.
+> I am a results-driven Technical Recruiter with 1+ year of hands-on experience managing end-to-end recruitment for IT and Non-IT roles. I have successfully handled both contractual and permanent positions in an IT staffing company, specializing in sourcing, screening, and placing top talent using LinkedIn Recruiter, Boolean & X-Ray search, and ATS tools.
+
+My previous experience as a Software Developer (3 years) gives me strong technical understanding, enabling me to evaluate IT candidates effectively and communicate confidently with hiring managers. I have recruited for Developers, QA, DevOps, Data Engineers, Healthcare Specialists, Legal Heads, Assistant Managers, and other operational/non-technical roles, building strong candidate pipelines and reducing time-to-hire.
+
+I thrive on building professional relationships, engaging candidates proactively, and helping organizations hire the right talent efficiently. I am actively seeking opportunities in Canada to contribute my expertise in IT & Non-IT recruitment.
 
 <img align="right" alt="Recruitment" width="400" src="https://user-images.githubusercontent.com/74038190/216847147-7f646ac9-b989-4c98-a73f-9471f1f6f95f.gif">
 
